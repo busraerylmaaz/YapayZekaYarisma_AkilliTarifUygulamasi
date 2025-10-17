@@ -9,7 +9,7 @@ Kullanıcı, elleri meşgulken bile “**Hazır**” diyerek sonraki adıma geç
 ## 🚀 Canlı Demo
 
 🔗 [Uygulamayı Deneyin](https://0a4ca9be-5d64-4108-866a-b83b0e7a8618-00-hdu2ksfiakxv.kirk.replit.dev/)
-> ⚠️ Bu bağlantı Replit ücretsiz sürümünden çalışmaktadır. Replit sunucusu uyku moduna geçtiğinde geçici olarak erişilemeyebilir.
+> ⚠️ Bu bağlantı Replit ücretsiz sürümünden çalışmaktadır. Replit sunucusu uyku moduna geçtiğinde geçici olarak erişilemeyebilir. Demo sürümü denemek için bana ulaşabilirsiniz!
 > Not: Mikrofon özelliği yalnızca Chrome veya Edge tarayıcısında çalışır.
 
 ---
