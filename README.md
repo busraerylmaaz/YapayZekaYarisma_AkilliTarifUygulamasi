@@ -49,7 +49,7 @@ Kullanıcı, elleri meşgulken bile “**Hazır**” diyerek sonraki adıma geç
 ![Malzemeler](./AkilliTarif%20(4).png)
 
 ### 5️⃣ Sesli Pişirme Adımı
-![Sesli Asistan](./AkilliTarif%20(5).png)
+![Sesli Asistan](./AkilliTarif51.png)
 
 ### 6️⃣ Tamamlanan Tarif
 ![Yemek Hazır](./AkilliTarif%20(6).png)
